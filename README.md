@@ -1,3 +1,3 @@
 # potionfy2
 
-## Build and share your potions!
+#### Build and share your potions!
